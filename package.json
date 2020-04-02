@@ -1,5 +1,5 @@
 {
-  "name": "twitter_bot",
+  "name": "BotDMV1.0",
   "version": "1.0.0",
   "description": "Node js twitter bot to send auto direct message",
   "main": "index.js",
